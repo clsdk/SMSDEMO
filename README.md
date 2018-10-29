@@ -1,1 +1,1 @@
-#JAVAdemo
+# JavaSmsDemo
